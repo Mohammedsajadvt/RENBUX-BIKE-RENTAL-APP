@@ -1,6 +1,6 @@
-# renbux
+# Renbux
 
-![File Cover](assets/file cover - 1.png)
+![File Cover](assets/file_cover_1.png)
 
 A new Flutter project.
 
