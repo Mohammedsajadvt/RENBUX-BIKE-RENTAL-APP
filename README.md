@@ -1,6 +1,6 @@
 # Renbux
 
-<img src="assets/file cover - 1.png" alt="File Cover" width="300"/>
+<img src="assets/file cover - 1.png" alt="File Cover" width="1000"/>
 
 A new Flutter project.
 
