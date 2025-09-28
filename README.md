@@ -1,6 +1,6 @@
 # Renbux
 
-![File Cover](assets/file_cover_1.png)
+<img src="assets/file_cover_1.png" alt="File Cover" width="300"/>
 
 A new Flutter project.
 
